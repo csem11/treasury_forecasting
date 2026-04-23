@@ -77,6 +77,8 @@ Errors are stable during the plateau period (Aug 2023 – Sep 2024) when rates b
 
 ## Regime Breakdown
 
+![Rate Regimes](images/01_rate_regimes.png)
+
 ![Regime Analysis](images/04_regime_analysis.png)
 
 Performance is best during the **Plateau** (stable rates, easy to predict) and higher during **Cutting** (shifting dynamics). This is expected — models trained on a stable environment are slower to adapt when the Fed starts moving rates again.
