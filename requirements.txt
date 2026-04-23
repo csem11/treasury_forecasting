@@ -1,0 +1,11 @@
+# Data retrieval and processing
+numpy==2.3.3
+pandas==2.3.3
+requests==2.32.5
+
+# Notebooks
+matplotlib==3.10.7
+scikit-learn==1.8.0
+
+# Test dependency
+pytest==9.0.2
