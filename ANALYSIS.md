@@ -12,6 +12,8 @@ A machine learning pipeline that forecasts U.S. Treasury yields one day and one 
 
 The data covers a full policy cycle — aggressive Fed hikes through mid-2023, a plateau near 5.5%, then the first cut in September 2024. The 10Y–2Y curve inverted for most of the period, which compressed net interest margins across the banking system.
 
+![Rate Regimes](images/01_rate_regimes.png)
+
 ![10Y–2Y Spread](images/01_yield_curve_spread.png)
 
 ---
